@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.babedev.dexter.dsl:dsl:1.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/dsl-1.0.1.aar/014f886a1e018f68bc66c4e01dd0a2ad/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/dsl-1.0.1.aar/014f886a1e018f68bc66c4e01dd0a2ad/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "617071782052",
+    "firebase_url": "https://fir-crashlytics-2af07.firebaseio.com",
+    "project_id": "fir-crashlytics-2af07",
+    "storage_bucket": "fir-crashlytics-2af07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617071782052:android:cf20a34b1cb092ec",
+        "android_client_info": {
+          "package_name": "com.dome.mvp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617071782052-elk6ce3l7u51qur5o4sk5trk1fu2fsmh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpKBJHIvxldKNG10MjrKKdOpCgnu0dSgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617071782052-elk6ce3l7u51qur5o4sk5trk1fu2fsmh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
